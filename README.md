@@ -7,6 +7,9 @@ Unisciti a noi su Telegram [![License](https://gist.githubusercontent.com/m8rge/
 
 *Read this in other languages: [English](README.EN.md).  (to be done)*
 
+## Video delle lezioni
+https://www.youtube.com/c/AntonioDiCecco
+
 # Indice del corso
 
 Per riferimento il programma fortemente ispirato al corso di Andreas Mueller sarà

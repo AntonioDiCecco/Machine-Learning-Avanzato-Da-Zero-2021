@@ -18,7 +18,7 @@ Per riferimento il programma fortemente ispirato al corso di Andreas Mueller sar
     
   - [Introduzione](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni01/01.html)
 
-  - matplotlib and visualization
+  - [Matplotlib e Visualizzazione](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni02/02.html)
 
   - Supervised learning, model complexity and model validation
 

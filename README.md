@@ -14,15 +14,15 @@ https://www.youtube.com/c/AntonioDiCecco
 
 Per riferimento il programma fortemente ispirato al corso di Andreas Mueller sarà
 
-  - [Presentazione del corso](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni00/00.html)
+  - [01 Presentazione del corso](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni00/00.html)
     
-  - [Introduzione](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni01/01.html)
+  - [01 Introduzione](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni01/01.html)
 
-  - [Matplotlib e Visualizzazione](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni02/02.html)
+  - [02 Matplotlib e Visualizzazione](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni02/02.html)
 
-  - [Exploratory Data Analysis](https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni03/EDAslides.pdf)
-  - [Supervised learning, model complexity e model validation](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni03/03.html)
-  - [Laboratorio Python su KNN](https://colab.research.google.com/github/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni03/SOAI_2021-KNN.ipynb)]
+  - [03 Exploratory Data Analysis](https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni03/EDAslides.pdf)
+  - [03 Supervised learning, model complexity e model validation](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni03/03.html)
+  - [03 Laboratorio Python su KNN (Colab)](https://colab.research.google.com/github/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni03/SOAI_2021-KNN.ipynb)
 
   - Preprocessing
 

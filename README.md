@@ -20,7 +20,9 @@ Per riferimento il programma fortemente ispirato al corso di Andreas Mueller sar
 
   - [Matplotlib e Visualizzazione](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni02/02.html)
 
-  - Supervised learning, model complexity and model validation
+  - [Exploratory Data Analysis](https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni03/EDAslides.pdf)
+  - [Supervised learning, model complexity e model validation](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni03/03.html)
+  - [Laboratorio Python su KNN](https://colab.research.google.com/github/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni03/SOAI_2021-KNN.ipynb)]
 
   - Preprocessing
 

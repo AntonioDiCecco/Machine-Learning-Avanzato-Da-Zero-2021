@@ -24,7 +24,7 @@ Per riferimento il programma fortemente ispirato al corso di Andreas Mueller sar
   - [03 Supervised learning, model complexity e model validation](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni03/03.html)
   - [03 Laboratorio Python su KNN (Colab)](https://colab.research.google.com/github/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni03/SOAI_2021-KNN.ipynb)
 
-  - Preprocessing
+  - [04 Preprocessing: scaling, pipeline e categorical encoding](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni04/04.html)
 
   - Linear models for Regression
 

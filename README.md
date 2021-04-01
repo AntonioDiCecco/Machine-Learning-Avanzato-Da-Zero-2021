@@ -26,7 +26,7 @@ Per riferimento il programma fortemente ispirato al corso di Andreas Mueller sar
 
   - [04 Preprocessing: scaling, pipeline e categorical encoding](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni04/04.html)
 
-  - Linear models for Regression
+  - [Modelli lineari per la Regressione](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni05/05.html)
 
   - Linear models for Classification, SVMs
 

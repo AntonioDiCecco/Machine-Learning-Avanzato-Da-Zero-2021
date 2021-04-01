@@ -42,7 +42,7 @@ Per riferimento il programma fortemente ispirato al corso di Andreas Mueller sar
 | 22 luglio 2021 | Progetto Predizioni Azionarie parte 2 |
 | 29 luglio 2021 | Question and Answers su Skype |
 | 5 agosto 2021 | Discussione progetto |
-| -- | -- |
+
 
 
 Verrà rilasciato un Certificato di completamento del corso a quelli che lo seguiranno con successo producendo un progetto originale di predizioni in ambito azionario usando quanto appreso nel corso.

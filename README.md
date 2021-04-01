@@ -14,9 +14,10 @@ https://www.youtube.com/c/AntonioDiCecco
 
 Per riferimento il programma fortemente ispirato al corso di Andreas Mueller sarà
 
-  - [01 Presentazione del corso](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni00/00.html)
-    
-  - [01 Introduzione](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni01/01.html)
+| Data | Titolo |
+| - | - |
+|  | [01 Presentazione del corso](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni00/00.html) |
+| | [01 Introduzione](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni01/01.html) |
 
   - [02 Matplotlib e Visualizzazione](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni02/02.html)
 
@@ -26,7 +27,7 @@ Per riferimento il programma fortemente ispirato al corso di Andreas Mueller sar
 
   - [04 Preprocessing: scaling, pipeline e categorical encoding](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni04/04.html)
 
-  - [Modelli lineari per la Regressione](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni05/05.html)
+  - [05 Modelli lineari per la Regressione](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni05/05.html)
 
   - Linear models for Classification, SVMs
 

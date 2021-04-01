@@ -15,49 +15,34 @@ https://www.youtube.com/c/AntonioDiCecco
 Per riferimento il programma fortemente ispirato al corso di Andreas Mueller sarà
 
 | Data | Titolo |
-| - | - |
-|  | [01 Presentazione del corso](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni00/00.html) |
+| -- | -- |
+| 4 marzo 2021 | [01 Presentazione del corso](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni00/00.html) |
 | | [01 Introduzione](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni01/01.html) |
-
-  - [02 Matplotlib e Visualizzazione](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni02/02.html)
-
-  - [03 Exploratory Data Analysis](https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni03/EDAslides.pdf)
-  - [03 Supervised learning, model complexity e model validation](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni03/03.html)
-  - [03 Laboratorio Python su KNN (Colab)](https://colab.research.google.com/github/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni03/SOAI_2021-KNN.ipynb)
-
-  - [04 Preprocessing: scaling, pipeline e categorical encoding](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni04/04.html)
-
-  - [05 Modelli lineari per la Regressione](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni05/05.html)
-
-  - Linear models for Classification, SVMs
-
-  - Trees, Forests & Ensembles
-
-  - Gradient Descent, Gradient Boosting
-
-  - Model Evaluation
-
-  - Calibration, Imbalanced Data
-
-  - Model Interpretration and Feature Selection
-   
-  - Parameter tuning and Automatic Machine Learning
-
-  - Dimensionality Reduction
-
-  - Clustering and mixture models
-
-  - Neural Networks
-
-  - Keras and Convolutional Neural Nets
-  
-  - Advanced Neural Networks
-
-  - Time series data
-
-  - Progetto Predizioni Azionarie parte 1
-
-  - Progetto Predizioni Azionarie parte 2
+| 11 marzo 2021 | [02 Matplotlib e Visualizzazione](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni02/02.html) |
+| 18 marzo 2021 | [03 Exploratory Data Analysis](https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni03/EDAslides.pdf) |
+|  | [03 Supervised learning, model complexity e model validation](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni03/03.html) |
+|  | [03 Laboratorio Python su KNN (Colab)](https://colab.research.google.com/github/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni03/SOAI_2021-KNN.ipynb) |
+| 25 marzo 2021 | [04 Preprocessing: scaling, pipeline e categorical encoding](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni04/04.html) |
+| 1 aprile 2021 | [05 Modelli lineari per la Regressione](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni05/05.html)|
+| 8 aprile 2021 | Linear models for Classification, SVMs |
+| 15 aprile 2021 | Questions and Aswers su Skype |
+| 22 aprile 2021 | Trees, Forests & Ensembles |
+| 29 aprile 2021 | Gradient Descent, Gradient Boosting |
+| 6 maggio 2021 | Model Evaluation |
+| 13 maggio 2021 | Calibration, Imbalanced Data |
+| 20 maggio 2021 | Model Interpretration and Feature Selection |
+| 27 maggio 2021 | Parameter tuning and Automatic Machine Learning |
+| 3 giugno 2021 | Dimensionality Reduction |
+| 10 giugno 2021 | Clustering and mixture models |
+| 17 giugno 2021 | Neural Networks |
+| 24 giugno 2021 | Keras and Convolutional Neural Nets |
+| 1 luglio 2021 | Advanced Neural Networks |
+| 8 luglio 2021 | Time series data |
+| 15 luglio 2021 | Progetto Predizioni Azionarie parte 1 |
+| 22 luglio 2021 | Progetto Predizioni Azionarie parte 2 |
+| 29 luglio 2021 | Question and Answers su Skype |
+| 5 agosto 2021 | Discussione progetto |
+| -- | -- |
 
 
 Verrà rilasciato un Certificato di completamento del corso a quelli che lo seguiranno con successo producendo un progetto originale di predizioni in ambito azionario usando quanto appreso nel corso.

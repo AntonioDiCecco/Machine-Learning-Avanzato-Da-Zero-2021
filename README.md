@@ -24,7 +24,7 @@ Per riferimento il programma fortemente ispirato al corso di Andreas Mueller sar
 |  | [03 Laboratorio Python su KNN (Colab)](https://colab.research.google.com/github/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni03/SOAI_2021-KNN.ipynb) |
 | 25 marzo 2021 | [04 Preprocessing: scaling, pipeline e categorical encoding](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni04/04.html) |
 | 1 aprile 2021 | [05 Modelli lineari per la Regressione](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni05/05.html)|
-| 8 aprile 2021 | [Modelli lineari per la classificazione e SVM](https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni06/Lezione06.pdf) |
+| 8 aprile 2021 | [06 Modelli lineari per la classificazione e SVM](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni06/Lezione06.pdf) |
 | 15 aprile 2021 | Questions and Aswers su Skype |
 | 22 aprile 2021 | Trees, Forests & Ensembles |
 | 29 aprile 2021 | Gradient Descent, Gradient Boosting |

@@ -26,7 +26,7 @@ Per riferimento il programma fortemente ispirato al corso di Andreas Mueller sar
 | 1 aprile 2021 | [05 Modelli lineari per la Regressione](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni05/05.html)|
 | 8 aprile 2021 | [06 Modelli lineari per la classificazione e SVM](https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni06/Lezione06.pdf) |
 | 15 aprile 2021 | Questions and Aswers su Skype |
-| 22 aprile 2021 | Trees, Forests & Ensembles |
+| 22 aprile 2021 | [Decision Tree, Random Forest ed Ensemble](https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni07/Lezione07.pdf) |
 | 29 aprile 2021 | Gradient Descent, Gradient Boosting |
 | 6 maggio 2021 | Model Evaluation |
 | 13 maggio 2021 | Calibration, Imbalanced Data |

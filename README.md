@@ -12,7 +12,7 @@ https://www.youtube.com/c/AntonioDiCecco
 
 # Indice del corso
 
-Per riferimento il programma fortemente ispirato al corso di Andreas Mueller sarà
+Per riferimento il programma ispirato al corso di Andreas Mueller sarà
 
 | Data | Titolo |
 | -- | -- |

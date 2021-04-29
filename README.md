@@ -28,7 +28,7 @@ Per riferimento il programma ispirato al corso di Andreas Mueller sarà
 | 8 aprile 2021 | [06 Modelli lineari per la classificazione e SVM](https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni06/Lezione06.pdf) |
 | 15 aprile 2021 | Questions and Aswers su Skype |
 | 22 aprile 2021 | [07 Decision Tree, Random Forest ed Ensemble](https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni07/Lezione07.pdf) |
-| 29 aprile 2021 | Gradient Descent, Gradient Boosting |
+| 29 aprile 2021 | [08 Gradient Descent, Gradient Boosting](https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni08/Lezione08.pdf) |
 | 6 maggio 2021 | Model Evaluation |
 | 13 maggio 2021 | Calibration, Imbalanced Data |
 | 20 maggio 2021 | Model Interpretration and Feature Selection |

@@ -29,12 +29,12 @@ Per riferimento il programma ispirato al corso di Andreas Mueller sarà
 | 15 aprile 2021 | Questions and Aswers su Skype |
 | 22 aprile 2021 | [07 Decision Tree, Random Forest ed Ensemble](https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni07/Lezione07.pdf) |
 | 29 aprile 2021 | [08 Gradient Descent, Gradient Boosting](https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni08/Lezione08.pdf) |
-| 6 maggio 2021 | Model Evaluation |
-| 13 maggio 2021 | Calibration, Imbalanced Data |
-| 20 maggio 2021 | Model Interpretration and Feature Selection |
-| 27 maggio 2021 | Parameter tuning and Automatic Machine Learning |
-| 3 giugno 2021 | Dimensionality Reduction |
-| 10 giugno 2021 | Clustering and mixture models |
+| 6 maggio 2021 | [09 Model Evaluation](https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni09/Lezione09.pdf)|
+| 13 maggio 2021 |[10 G1no Smote (dataset sbilanciati) e calibrazione](https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni10/Lezione10.pdf)|
+| da recuperare  | XAI Model Interpretration and Feature Selection |
+| da valutare    | Parameter tuning and Automatic Machine Learning |
+| 3 giugno 2021 | Gara di Machine Learning | |
+| 10 giugno 2021 | Unsupervised Learning | [11 Unsupervised Learning](https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni11/Lezione11.pdf) |
 | 17 giugno 2021 | Neural Networks |
 | 24 giugno 2021 | Keras and Convolutional Neural Nets |
 | 1 luglio 2021 | Advanced Neural Networks |

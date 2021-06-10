@@ -33,8 +33,8 @@ Per riferimento il programma ispirato al corso di Andreas Mueller sarà
 | 13 maggio 2021 |[10 G1no Smote (dataset sbilanciati) e calibrazione](https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni10/Lezione10.pdf)|
 | da recuperare  | XAI Model Interpretration and Feature Selection |
 | da valutare    | Parameter tuning and Automatic Machine Learning |
-| 3 giugno 2021 | Gara di Machine Learning | |
-| 10 giugno 2021 | Unsupervised Learning | [11 Unsupervised Learning](https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni11/Lezione11.pdf) |
+| 3 giugno 2021 |  [Organizziamo un hackaton](https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Hackaton/Hackaton.pdf) |
+| 10 giugno 2021 | [11 Unsupervised Learning](https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni11/Lezione11.pdf) |
 | 17 giugno 2021 | Neural Networks |
 | 24 giugno 2021 | Keras and Convolutional Neural Nets |
 | 1 luglio 2021 | Advanced Neural Networks |

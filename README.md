@@ -31,19 +31,12 @@ Per riferimento il programma ispirato al corso di Andreas Mueller sarà
 | 29 aprile 2021 | [08 Gradient Descent, Gradient Boosting](https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni08/Lezione08.pdf) |
 | 6 maggio 2021 | [09 Model Evaluation](https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni09/Lezione09.pdf)|
 | 13 maggio 2021 |[10 G1no Smote (dataset sbilanciati) e calibrazione](https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni10/Lezione10.pdf)|
-| da recuperare  | XAI Model Interpretration and Feature Selection |
-| da valutare    | Parameter tuning and Automatic Machine Learning |
 | 3 giugno 2021 |  [Organizziamo un hackaton](https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Hackaton/Hackaton.pdf) |
 | 10 giugno 2021 | [11 Unsupervised Learning](https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni11/Lezione11.pdf) |
-| 17 giugno 2021 | Neural Networks |
-| 24 giugno 2021 | Keras and Convolutional Neural Nets |
-| 1 luglio 2021 | Advanced Neural Networks |
-| 8 luglio 2021 | Time series data |
-| 15 luglio 2021 | Progetto Predizioni Azionarie parte 1 |
-| 22 luglio 2021 | Progetto Predizioni Azionarie parte 2 |
-| 29 luglio 2021 | Question and Answers su Skype |
-| 5 agosto 2021 | Discussione progetto |
-
+| 1 luglio 2021 | [12 Neural Networks](https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni12/Lezione12.pdf) |
+| Settembre 2021 | Time series data |
+| Settembre 2021 | Progetto Predizioni Azionarie parte 1 |
+| Settembre 2021 | Progetto Predizioni Azionarie parte 2 |
 
 
 Verrà rilasciato un Certificato di completamento del corso a quelli che lo seguiranno con successo producendo un progetto originale di predizioni in ambito azionario usando quanto appreso nel corso.

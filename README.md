@@ -32,7 +32,7 @@ Per riferimento il programma ispirato al corso di Andreas Mueller sarà
 | 6 maggio 2021 | [09 Model Evaluation](https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni09/Lezione09.pdf)|
 | 13 maggio 2021 |[10 G1no Smote (dataset sbilanciati) e calibrazione](https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni10/Lezione10.pdf)|
 | 3 giugno 2021 |  [Organizziamo un hackaton](https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Hackaton/Hackaton.pdf) |
-| 10 giugno 2021 | [11 Unsupervised Learning](https://htmlpreview.github.io/?https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni11/Lezione11.pdf) |
+| 10 giugno 2021 | [11 Unsupervised Learning](https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni11/Lezione11.pdf) |
 | 1 luglio 2021 | [12 Neural Networks](https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni12/Lezione12.pdf) |
 | Settembre 2021 | Time series data |
 | Settembre 2021 | Progetto Predizioni Azionarie parte 1 |

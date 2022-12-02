@@ -34,9 +34,8 @@ Per riferimento il programma ispirato al corso di Andreas Mueller sarà
 | 3 giugno 2021 |  [Organizziamo un hackaton](https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Hackaton/Hackaton.pdf) |
 | 10 giugno 2021 | [11 Unsupervised Learning](https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni11/Lezione11.pdf) |
 | 1 luglio 2021 | [12 Neural Networks](https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni12/Lezione12.pdf) |
-| Settembre 2021 | Time series data |
-| Settembre 2021 | Progetto Predizioni Azionarie parte 1 |
-| Settembre 2021 | Progetto Predizioni Azionarie parte 2 |
+| 1 dicembre 2022 | Time series | |
+
 
 
 Verrà rilasciato un Certificato di completamento del corso a quelli che lo seguiranno con successo producendo un progetto originale di predizioni in ambito azionario usando quanto appreso nel corso.

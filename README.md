@@ -34,7 +34,8 @@ Per riferimento il programma ispirato al corso di Andreas Mueller sarà
 | 3 giugno 2021 |  [Organizziamo un hackaton](https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Hackaton/Hackaton.pdf) |
 | 10 giugno 2021 | [11 Unsupervised Learning](https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni11/Lezione11.pdf) |
 | 1 luglio 2021 | [12 Neural Networks](https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni12/Lezione12.pdf) |
-| 1 dicembre 2022 | [13 Serie Temporali]("https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni13/Serie Temporali parte1.pdf") |
+| 1 dicembre 2022 | [13 Serie Temporali](https://github.com/AntonioDiCecco/Machine-Learning-Avanzato-Da-Zero-2021/blob/main/Lezioni13/Lezion13.pdf) |
+| -- | -- |
 
 
 

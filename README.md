@@ -9,7 +9,7 @@ Unisciti a noi su Telegram [![License](https://gist.githubusercontent.com/m8rge/
 
 ## Video delle lezioni
 https://www.youtube.com/c/AntonioDiCecco
-playlist http://bit.do/SOAI-AML2021
+
 
 # Indice del corso
 
